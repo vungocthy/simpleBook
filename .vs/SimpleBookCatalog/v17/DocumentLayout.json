@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|d:\\fe learning\\net learning\\simplebookcatalog\\simplebookcatalog.blazor\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|d:\\fe learning\\net learning\\simplebookcatalog\\simplebookcatalog.blazor\\simplebookcatalog.blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\simplebookcatalog.blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC18ABD6-C070-4E9B-ADF3-D839BCE7C8CA}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|d:\\fe learning\\net learning\\simplebookcatalog\\simplebookcatalog.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC18ABD6-C070-4E9B-ADF3-D839BCE7C8CA}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|solutionrelative:simplebookcatalog.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC18ABD6-C070-4E9B-ADF3-D839BCE7C8CA}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|d:\\fe learning\\net learning\\simplebookcatalog\\simplebookcatalog.domain\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC18ABD6-C070-4E9B-ADF3-D839BCE7C8CA}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|solutionrelative:simplebookcatalog.domain\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABAC98D-A671-4E2C-87C4-C52B9B601B24}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|d:\\fe learning\\net learning\\simplebookcatalog\\simplebookcatalog.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABAC98D-A671-4E2C-87C4-C52B9B601B24}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|solutionrelative:simplebookcatalog.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6687FF-48F5-456B-BCB8-8118A08930C6}|SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj|d:\\fe learning\\net learning\\simplebookcatalog\\simplebookcatalog.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6687FF-48F5-456B-BCB8-8118A08930C6}|SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj|solutionrelative:simplebookcatalog.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleBookCatalog.Blazor",
+              "DocumentMoniker": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj",
+              "ToolTip": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T17:04:04.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "ToolTip": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:53:37.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\Enums\\Category.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Domain\\Enums\\Category.cs",
+              "ToolTip": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\Enums\\Category.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Domain\\Enums\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:52:56.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddNew.razor",
+              "DocumentMoniker": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\Components\\Pages\\AddNew.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\Components\\Pages\\AddNew.razor",
+              "ToolTip": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\Components\\Pages\\AddNew.razor",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\Components\\Pages\\AddNew.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:07:24.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:04:57.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:03:36.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

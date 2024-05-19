@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBookCatalog.Blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SimpleBookCatalog.Blazor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimpleBookCatalog.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimpleBookCatalog.Blazor.props",
+      "PackagePath": "build\\SimpleBookCatalog.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimpleBookCatalog.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\SimpleBookCatalog.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimpleBookCatalog.Blazor.props",
+      "PackagePath": "buildTransitive\\SimpleBookCatalog.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
