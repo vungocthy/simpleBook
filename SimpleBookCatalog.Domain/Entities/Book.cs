@@ -19,6 +19,8 @@ namespace SimpleBookCatalog.Domain.Entities
         [Required(ErrorMessage = "Please provide author")]
         [StringLength(100)]
         public string? Author { get; set; }
+
+        [Required(ErrorMessage = "Please provide Date Published")]
         public DateTime? PublicationDate { get; set; }
 
 

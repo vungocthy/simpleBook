@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
+    "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj",
         "projectName": "SimpleBookCatalog.Application",
-        "projectPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Application\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {
-                "projectPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj"
+              "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj"
               }
             }
           }
@@ -52,6 +52,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -72,20 +82,20 @@
         }
       }
     },
-    "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {
+    "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
         "projectName": "SimpleBookCatalog.Domain",
-        "projectPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -136,20 +146,20 @@
         }
       }
     },
-    "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj": {
+    "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj",
         "projectName": "SimpleBookCatalog.Infrastructure",
-        "projectPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -164,8 +174,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
-                "projectPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj"
+              "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj"
               }
             }
           }
@@ -194,6 +204,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [

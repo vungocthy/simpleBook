@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4SMeyc6fxbxdELV+ZuLuWQ+H1uKCrXIJGC5H+r+dG5zIlSjhCDUUdb1BJ4dfxjL+XDCWHSK2IBS3MzCUjAPGlA==",
+  "dgSpecHash": "TXSU88cBeQSbmu+Fo1YUKHnvASNsaZYF35VJFXFlKKM1WxcA4Jpc6CanjG3+tlKf6QePblwhODkAMetbtKfBJg==",
   "success": true,
-  "projectFilePath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

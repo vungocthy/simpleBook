@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleBookCatalog.Blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff21a8de4c7a0b4430cfda31f13e9c51deb23d89")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleBookCatalog.Blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleBookCatalog.Blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {}
   },
   "projects": {
-    "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {
+    "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
         "projectName": "SimpleBookCatalog.Domain",
-        "projectPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\FE Learning\\NET learning\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

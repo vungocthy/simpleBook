@@ -1,5 +1,4 @@
 ﻿@page "/add-new"
-
 @inject IBookRepository Repository
 @inject NavigationManager Navigation
 
@@ -56,11 +55,14 @@
 </div>
 
 @code {
-    [SupplyParameterFromForm]
+
     public Book Book { get; set; } = new();
+    //private EditContext editContext;
     private async Task AddBook()
     {
         await Repository.AddAsync(Book);
         Navigation.NavigateTo("/");
     }
 }
+
+

@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.EntityFrameworkCore;
 using SimpleBookCatalog.Application.Interfaces;
 using SimpleBookCatalog.Blazor.Components;
@@ -9,10 +10,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+builder.Services.AddSignalR();
+builder.Services.AddRazorPages();
+builder.Services.AddServerSideBlazor();
 
 builder.Services.AddDbContextFactory<SimpleBookCatalogDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SimpleBookCatalogDefault"));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("SimpleBookCatalogDefault"));
 });
 builder.Services.AddScoped<IBookRepository, BookRepository>();
 

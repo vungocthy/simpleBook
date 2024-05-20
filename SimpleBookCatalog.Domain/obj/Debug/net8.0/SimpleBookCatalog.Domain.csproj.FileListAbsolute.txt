@@ -9,3 +9,15 @@ D:\FE Learning\NET learning\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug
 D:\FE Learning\NET learning\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\refint\SimpleBookCatalog.Domain.dll
 D:\FE Learning\NET learning\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.pdb
 D:\FE Learning\NET learning\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net8.0\ref\SimpleBookCatalog.Domain.dll
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.deps.json
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\bin\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.sourcelink.json
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\refint\SimpleBookCatalog.Domain.dll
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Domain\obj\Debug\net8.0\ref\SimpleBookCatalog.Domain.dll
