@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleBookCatalog.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff21a8de4c7a0b4430cfda31f13e9c51deb23d89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7ca1e22edce69f2c194474e7405a7ad08781a6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleBookCatalog.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleBookCatalog.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

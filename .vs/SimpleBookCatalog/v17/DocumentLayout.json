@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.blazor\\components\\bookcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\components\\bookcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.blazor\\components\\confirmdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\components\\confirmdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.blazor\\components\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\components\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.blazor\\components\\confirmdialog.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\components\\confirmdialog.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABAC98D-A671-4E2C-87C4-C52B9B601B24}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABAC98D-A671-4E2C-87C4-C52B9B601B24}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|solutionrelative:simplebookcatalog.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6687FF-48F5-456B-BCB8-8118A08930C6}|SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6687FF-48F5-456B-BCB8-8118A08930C6}|SimpleBookCatalog.Application\\SimpleBookCatalog.Application.csproj|solutionrelative:simplebookcatalog.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.blazor\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\components\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.blazor\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|c:\\users\\hp\\desktop\\blazor\\simplebook\\simplebookcatalog.blazor\\components\\bookform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA9F3FD-E170-46B9-A63D-E9BCC40033A1}|SimpleBookCatalog.Blazor\\SimpleBookCatalog.Blazor.csproj|solutionrelative:simplebookcatalog.blazor\\components\\bookform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\Pages\\List.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\Components\\Pages\\List.razor",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\Pages\\List.razor",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\Components\\Pages\\List.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:46:07.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmDialog.razor.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\ConfirmDialog.razor.css",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\Components\\ConfirmDialog.razor.css",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\ConfirmDialog.razor.css",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\Components\\ConfirmDialog.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-20T08:38:34.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmDialog.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\ConfirmDialog.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\Components\\ConfirmDialog.razor",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\ConfirmDialog.razor",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\Components\\ConfirmDialog.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:32:46.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookCard.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\BookCard.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\Components\\BookCard.razor",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\BookCard.razor",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\Components\\BookCard.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:30:05.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:26:12.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Application\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:25:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookForm.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\BookForm.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\Components\\BookForm.razor",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\BookForm.razor",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\Components\\BookForm.razor",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAkwFgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:12:50.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddNew.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\Pages\\AddNew.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\Components\\Pages\\AddNew.razor",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\Pages\\AddNew.razor",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\Components\\Pages\\AddNew.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:07:18.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Blazor\\Components\\Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Blazor\\simpleBook\\SimpleBookCatalog.Blazor\\Components\\Pages\\Edit.razor",
+              "RelativeToolTip": "SimpleBookCatalog.Blazor\\Components\\Pages\\Edit.razor",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:07:15.971Z",
+              "EditorCaption": ""
             }
           ]
         }

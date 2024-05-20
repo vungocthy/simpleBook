@@ -1,14 +1,14 @@
-﻿@page "/add-new"
-@inject IBookRepository Repository
-@inject NavigationManager Navigation
+﻿@inject IBookRepository Repository
 
-<PageTitle>
-    Add New Book
-</PageTitle>
-<div class="row justify-content-center"> 
-    <div class="col-6">
-        @* <EditForm Enhance="true" method="post" FormName="AddBookForm" Model="Book" autocomplete="off" OnValidSubmit="AddBook">
-            <h3>Add New Book</h3>
+@if(Book is not null)
+{
+     <EditForm Enhance="true" method="post" FormName="AddOrEditBookForm" Model="Book" autocomplete="off" OnValidSubmit="AddOrEditBook">
+            <h3>@Title</h3>
+        @if (IsEditMode)
+        {
+            <input type="hidden" name="Book.Id" value="@Book.Id" />
+        }
+        
             <div class="mb-3">
                 <label for="title" class="form-label">
                     Title
@@ -51,22 +51,41 @@
                     Back to list
                 </a>
             </div>
-            @* <DataAnnotationsValidator/>
+            @* <DataAnnotationsValidator/> *@
             <RequiredFieldValidator/>
             <ValidationSummary/>
-        </EditForm> *@
-        <BookForm IsEditMode="false" OnValidBookSubmit="AddBook"/>
-    </div>
-</div>
-
-@code {
-    // [SupplyParameterFromForm]
-    // public Book Book { get; set; } = new();
-    private async Task AddBook(Book book)
-    {
-        await Repository.AddAsync(book);
-        Navigation.NavigateTo("/");
-    }
+        </EditForm>
 }
 
+@code {
+    [Parameter]
+    public bool IsEditMode { get; set; } = false;
 
+    [Parameter]
+    public int  BookId { get; set; }
+
+    [Parameter]
+    public EventCallback<Book> OnValidBookSubmit { get; set; }
+
+    [SupplyParameterFromForm]
+    public Book? Book { get; set; }
+
+    private string Title => IsEditMode ? $"Edit Book {BookId}" : "Add New Book";
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (IsEditMode)
+        {
+            Book ??= await Repository.GetByIdAsync(BookId);
+        }
+        else
+        {
+            Book ??= new Book();
+        }
+    }
+
+    private async Task AddOrEditBook()
+    {
+        await OnValidBookSubmit.InvokeAsync(Book);
+    }
+}

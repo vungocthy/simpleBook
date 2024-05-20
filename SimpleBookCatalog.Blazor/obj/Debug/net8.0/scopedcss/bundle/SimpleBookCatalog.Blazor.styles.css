@@ -1,3 +1,35 @@
+/* _content/SimpleBookCatalog.Blazor/Components/BookCard.razor.rz.scp.css */
+.book-card[b-b4fqblniup]{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+/* _content/SimpleBookCatalog.Blazor/Components/ConfirmDialog.razor.rz.scp.css */
+.confirm-dialog-container[b-dyp4q3sscw]{
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:rgba(0,0,0,0.5);
+    z-index:2000;
+}
+
+.confirm-dialog[b-dyp4q3sscw]{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    min-width:20rem;
+    padding:2rem;
+    border-radius:1rem;
+    background-color:white;
+    margin-top:1.5rem;
+    position:fixed;
+}
 /* _content/SimpleBookCatalog.Blazor/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-ogm9otac0y] {
     position: relative;
@@ -95,3 +127,11 @@ main[b-ogm9otac0y] {
         right: 0.75rem;
         top: 0.5rem;
     }
+/* _content/SimpleBookCatalog.Blazor/Components/Pages/List.razor.rz.scp.css */
+
+.book-item[b-jqt0cr6ewa] {
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 0 0.5rem rgba(0,0,0,0.3);
+    border-radius: 0.5rem
+}

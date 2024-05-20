@@ -288,3 +288,6 @@ C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Blazor\obj\Debug\net8.0\
 C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Blazor\obj\Debug\net8.0\SimpleBookCatalog.Blazor.pdb
 C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Blazor\obj\Debug\net8.0\SimpleBookCatalog.Blazor.genruntimeconfig.cache
 C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Blazor\obj\Debug\net8.0\ref\SimpleBookCatalog.Blazor.dll
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Blazor\obj\Debug\net8.0\scopedcss\Components\Pages\List.razor.rz.scp.css
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Blazor\obj\Debug\net8.0\scopedcss\Components\BookCard.razor.rz.scp.css
+C:\Users\HP\Desktop\Blazor\simpleBook\SimpleBookCatalog.Blazor\obj\Debug\net8.0\scopedcss\Components\ConfirmDialog.razor.rz.scp.css

@@ -6,6 +6,7 @@ using SimpleBookCatalog.Infrastructure.Context;
 using SimpleBookCatalog.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
